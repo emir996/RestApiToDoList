@@ -5,6 +5,7 @@ Composer <br/>
 
 After cloning <br/>
 composer install <br/>
+laravel sanctum if u are new check this documentation https://laravel.com/docs/8.x/sanctum <br/>
 npm install <br/>
 cp .env.example .env <br/>
 php artisan key:generate <br/>
