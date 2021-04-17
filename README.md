@@ -1,18 +1,18 @@
 Requirements
 
-Node node package manager
-Composer
+Node node package manager <br/>
+Composer <br/>
 
-After cloning 
-composer install
-npm install
-cp .env.example .env
-php artisan key:generate
+After cloning <br/>
+composer install <br/>
+npm install <br/>
+cp .env.example .env <br/>
+php artisan key:generate <br/>
 
-if u want clean db migration
-php artisan migrate:fresh
-if not
-php artisan migrate
+if u want clean db migration <br/>
+php artisan migrate:fresh <br/>
+if not <br/>
+php artisan migrate <br/>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
